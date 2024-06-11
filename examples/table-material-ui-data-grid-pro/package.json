@@ -3,7 +3,7 @@
   "version": "3.25.0",
   "private": true,
   "dependencies": {
-    "@mui/x-data-grid-pro": "^6.6.0",
+    "@mui/x-data-grid-pro": "^7.0.0",
     "@refinedev/core": "^4.45.1",
     "@refinedev/cli": "^2.16.19",
     "@refinedev/mui": "^5.13.18",
