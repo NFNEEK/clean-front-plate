@@ -16,7 +16,7 @@
     "react-router-dom": "^6.8.1",
     "antd": "^5.0.5",
     "@ant-design/icons": "5.0.1",
-    "@ant-design/plots": "^1.2.5",
+    "@ant-design/plots": "^2.0.0",
     "dayjs": "^1.10.7"
   },
   "devDependencies": {
